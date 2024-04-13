@@ -1,0 +1,23 @@
+* {
+  font: 1em sans-serif;
+}
+
+#beagle {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.heading1 {
+  font-size: 2rem;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.beagle {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.ordered-list {
+  padding-left: 20px;
+}
